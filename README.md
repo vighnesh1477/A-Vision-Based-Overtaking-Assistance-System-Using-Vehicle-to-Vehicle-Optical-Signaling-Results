@@ -77,7 +77,7 @@ The purpose of these videos is to provide supplementary evidence of the framewor
 | Evaluation Source                | Number of Videos | Approximate Duration |
 | -------------------------------- | ---------------: | -------------------: |
 | Real driving dash-camera footage |               25 |   2--4 min per video |
-| Euro Truck Simulator 2           |                1 |              ~25 min |
+| Euro Truck Simulator 2           |                1 |              ~43 min |
 | **Total**                        |           **26** |                    — |
 
 The 25 real driving sequences represent practical driving footage, while the extended ETS2 sequence provides an additional long-duration simulator-based evaluation.
